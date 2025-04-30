@@ -1,0 +1,2 @@
+def namedtuple():
+    return None
